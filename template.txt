@@ -1,0 +1,9 @@
+------------------Card Template----------------
+
+Dear NAME,
+
+Marry Christmas and a Happy New Year!
+
+Best wishes,
+
+--------------------------------------------------
